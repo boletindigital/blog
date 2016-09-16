@@ -35,6 +35,18 @@ feature_row1:
     btn_label: "View Source"
     btn_class: "btn--inverse"
   -
+    image_path: after-dark-framed.png
+    alt: "After Dark screenshot"
+    title: "After Dark"
+    excerpt: >
+      A retro dark theme for the Hugo static site generator.
+      <br><br>
+      <small>Golang / Hugo</small>
+    url: "https://github.com/comfusion/after-dark"
+    btn_label: "View Source"
+    btn_class: "btn--inverse"
+feature_row2:
+  -
     image_path: lumpen-radio-web-schedule-framed.png
     alt: "Lumpen Radio Web screenshot"
     title: "Lumpen Radio Web 2.0"
@@ -45,7 +57,6 @@ feature_row1:
     url: "https://github.com/jhabdas/lumpenradio-com"
     btn_label: "View Source"
     btn_class: "btn--inverse"
-feature_row2:
   -
     title: "Xanthippe"
     excerpt: >
