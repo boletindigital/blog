@@ -15,7 +15,7 @@ Bienvenidos al blog de [Boletín Digital][07de7ba0], donde compartiremos consejo
 
 Recibimos comentarios y sugerencias en nuestra dirección de correo electrónico [boletin@damianfernandez.mx][8bb61c6e]
 
-# Boletín Digital
+# ¿Qué es el Boletín Digital?
 
 Cada día, el _Tribunal Judicial del Distrito Federal_ publicada más de **17,000** acuerdos en los juzgados y salas que hay en la Ciudad de México.
 
