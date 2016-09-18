@@ -101,17 +101,17 @@ end
 # Deployment tasks
 ##################
 
-# Usage: rake s3_website
-desc "push the contents of ./_site to S3"
-task :s3_website do
+# Usage: rake gh_pages
+desc "push the contents of ./_site to gh-pages"
+task :gh_pages do
   puts "* syncing the contents of ./_site to the server"
-  system "s3_website push" # use --force with S3 config updates
+  system "ls -lah _site"
 end
 
 # Usage: rake deploy
 task :deploy => ["deploy:prod"]
 namespace :deploy do
   desc "Regenerate and sync production files, and notify services of the update"
-  task :prod => ["build", "s3_website", "notify"] do
+  task :prod => ["build", "gh_pages", "notify"] do
   end
 end
