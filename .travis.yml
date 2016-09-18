@@ -11,5 +11,4 @@ env:
 
 script: rake deploy
 
-# This reduces build times by 60%, but s3_website wants sudoer perms :/
-# sudo: false # route your build to the container-based infrastructure for a faster build
+sudo: false # route your build to the container-based infrastructure for a faster build
