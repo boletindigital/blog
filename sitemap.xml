@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>https://blog.boletin.digital/</loc>
+</url>
+<url>
+<loc>https://blog.boletin.digital/posts/</loc>
+</url>
+<url>
+<loc>https://blog.boletin.digital/tags/</loc>
+</url>
+<url>
+<loc>https://blog.boletin.digital/terms/</loc>
+</url>
+<url>
+<loc>https://blog.boletin.digital/talks/brunch-with-chaplin/</loc>
+</url>
+<url>
+<loc>https://blog.boletin.digital/talks/exim-html5-architecture/</loc>
+</url>
+<url>
+<loc>https://blog.boletin.digital/talks/isomorphic-rendering-react/</loc>
+</url>
+<url>
+<loc>https://blog.boletin.digital/talks/simple-websites-jekyll-docker/</loc>
+</url>
+<url>
+<loc>https://blog.boletin.digital/talks/streaming-audio-react-native/</loc>
+</url>
+<url>
+<loc>https://blog.boletin.digital/talks/two-way-data-binding-rivets/</loc>
+</url>
+<url>
+<loc>https://blog.boletin.digital/talks/typeahead-with-bloodhound/</loc>
+</url>
+</urlset>
