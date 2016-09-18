@@ -41,8 +41,8 @@ feature_row1:
     excerpt: >
       A retro dark theme for the Hugo static site generator.
       <br><br>
-      <small>Golang / Hugo</small>
-    url: "https://github.com/comfusion/after-dark"
+      <small>Golang / HTML5 / CSS3 / Hugo Static Site Generator</small>
+    url: "https://comfusion.github.io/after-dark/"
     btn_label: "View Source"
     btn_class: "btn--inverse"
 feature_row2:
