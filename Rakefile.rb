@@ -104,7 +104,7 @@ end
 # Usage: rake gh_pages
 desc "push the contents of ./_site to gh-pages"
 task :gh_pages do
-  puts "* syncing the contents of ./_site to the server"
+  puts "* now we are ready to syn the contents of ./_site to the gh-pages"
   system "ls -lah _site"
 end
 
