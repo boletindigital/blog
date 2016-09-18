@@ -1,19 +1,19 @@
 # Site Settings
 locale                   : "en-US"
-title                    : "habd.as"
+title                    : "Blog del Boletín Digital"
 title_separator          : "-"
-name                     : "Josh Habdas"
-description              : "Building the future Web"
-url                      : https://habd.as # the base hostname & protocol for your site e.g. "https://jhabdas.github.io"
+name                     : "Boletín Digital"
+description              : "Blog del Boletín Digital"
+url                      : https://blog.boletin.digital # the base hostname & protocol for your site e.g. "https://jhabdas.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : https://github.com/jhabdas/habd.as/
+repository               : https://github.com/boletindigital/blog/
 teaser                   : programming-942487_500.jpg # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 # breadcrumbs            : # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : disqus # false (default), "disqus", "facebook", "google-plus", custom"
+  provider               : false # false (default), "disqus", "facebook", "google-plus", custom"
   disqus:
-    shortname            : habdas # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+    shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   facebook:
     # https://developers.facebook.com/docs/plugins/comments
     appid                :
@@ -25,10 +25,10 @@ comments:
 version: 3.0.3
 
 # SEO Related
-google_site_verification : B7WE9il5wd1Mjl9PZttf1pLgrxVmric-D7-az4KxaCY
-bing_site_verification   : DBC165D1E8CE148BED6D48D4F31A3831
+google_site_verification :
+bing_site_verification   :
 alexa_site_verification  : # Claim a site feature retired May 2016
-yandex_site_verification : 4006a8813cbb9fdb
+yandex_site_verification :
 
 # Social Sharing
 twitter:
@@ -47,11 +47,11 @@ social:
 
 # Analytics
 analytics:
-  provider               : segment # false (default), "segment", "google", "google-universal", "custom"
+  provider               : false # false (default), "segment", "google", "google-universal", "custom"
   google:
     tracking_id          :
   segment:
-    write_key            : YwZOQGAgThWNCemaxEhy6wrKYvpiNztK
+    write_key            :
 
 # Google AdSense
 google_ad_client         :
@@ -61,29 +61,29 @@ google_ad_slot           :
 # Site Author
 # See also _data/authors.yml
 author:
-  name             : "Josh Habdas"
-  avatar           : "bio-photo.jpg"
-  bio              : "Freelance Web and mobile app developer."
-  location         : "Chicago, USA"
+  name             : "Boletin Digital"
+  avatar           : ""
+  bio              : ""
+  location         : "Ciudad de México"
   email            :
   uri              :
-  angellist        : jhabdas
+  angellist        :
   bitbucket        :
   codepen          :
-  codementor       : jhabdas
+  codementor       :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : BoletinDigital
   foursquare       :
-  github           : jhabdas
+  github           :
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : jhabdas
+  linkedin         :
   pinterest        :
   soundcloud       :
-  stackoverflow    : 712334/josh-h
+  stackoverflow    :
   steam            :
   tumblr           :
   twitter          :
