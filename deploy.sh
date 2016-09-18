@@ -29,13 +29,13 @@ cd ..
 
 # Clean out existing contents
 rm -rf _site/**/* || exit 0
-echo 'blog.boletin.digital' > _site/CNAME
 
 # Run our compile script
 doCompile
 
 # Now let's go have some fun with the cloned repo
 cd _site
+echo 'blog.boletin.digital' > CNAME
 git config user.name "Travis CI"
 git config user.email "$COMMIT_AUTHOR_EMAIL"
 
